@@ -3,4 +3,4 @@
 
 
 
-note that: the visualization part isn't a apart of the code above, u can make it by using pyprocessing library.
+note that: the visualization isn't a a part of the code above, u can make it by using pyprocessing library.
